@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE> Zayn </TITLE>
+</HEAD>
+<BODY>
+<p align=center> Главная | <a href= Info.html>Общая информация</a> 
+
+
+                                                                               
